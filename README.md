@@ -1,7 +1,5 @@
-## Hi there 👋
-
-
-**rahul9674/rahul9674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Rahul Kumar Pandit
+A passionate Full Stack developer from India
 
 Here are some ideas to get you started:
 
