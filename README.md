@@ -12,6 +12,3 @@ Here are some ideas to get you started:
 Connect with me:
 www.linkedin.com/in/rahul-kumar-pandit-84b493318
 
-Languages and Tools:
-[https://developer.android.com/ https://angular.dev/ https://getbootstrap.com/ https://www.w3schools.com/css/ https://git-scm.com/ https://www.w3.org/html/ https://www.java.com/en/ https://developer.mozilla.org/en-US/docs/Web/JavaScript https://www.postman.com/ ](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-
