@@ -13,5 +13,5 @@ Connect with me:
 www.linkedin.com/in/rahul-kumar-pandit-84b493318
 
 Languages and Tools:
-android angular bootstrap cplusplus css3 django express figma firebase git html5 java javascript linux mongodb mysql nodejs opencv pandas postman python react redis redux seaborn tailwind typescript webpack
+https://developer.android.com/ https://angular.dev/ https://getbootstrap.com/ https://www.w3schools.com/css/ https://git-scm.com/ https://www.w3.org/html/ https://www.java.com/en/ https://developer.mozilla.org/en-US/docs/Web/JavaScript https://www.postman.com/ 
 
