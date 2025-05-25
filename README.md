@@ -1,5 +1,6 @@
-Hi 👋, I'm Rahul Kumar Pandit
-A passionate Full Stack developer from India
+                                      Hi 👋, I'm Rahul Kumar Pandit
+
+                              A passionate Full Stack developer from India
 
 Here are some ideas to get you started:
 
